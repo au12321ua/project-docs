@@ -1,0 +1,10 @@
+/.local/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.env
+.env.*
+!.env.example

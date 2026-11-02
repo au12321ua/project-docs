@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Docs"
+  short_description: "Set up and audit project docs and branch conventions"
+  default_prompt: "Use $project-docs to inspect this repository and establish or audit documentation and branch conventions at an appropriate level."
